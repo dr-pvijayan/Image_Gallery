@@ -1,4 +1,4 @@
-# Ex.08 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 
 ## AIM
   To design a web application for an inteactive image gallery with minimum five images.
